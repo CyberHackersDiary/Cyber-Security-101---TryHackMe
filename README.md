@@ -1,6 +1,6 @@
 Let’s dive into a hands-on adventure into the core disciplines of computer security. Acquire essential skills and knowledge to embark on a rewarding career. This repository will walk you step–by–step through the following modules:
 
-1. Start Your Cyber Security Career: Offensive Security Intro, Defensive Security Intro, and Search Skills
+1. Start Your Cyber Security Journey: Offensive Security Intro, Defensive Security Intro, and Search Skills
   
 2. Linux Fundamentals: Linux Fundamentals Part 1, Linux Fundamentals Part 2, and Linux Fundamentals Part 3
 
